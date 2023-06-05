@@ -1,0 +1,8 @@
+.lookout {
+    background-image: url("../Assets/Firelookout.bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}

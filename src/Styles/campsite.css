@@ -1,0 +1,9 @@
+.camp-sites {
+    background-image: url('../Assets/Camping.bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    
+}
