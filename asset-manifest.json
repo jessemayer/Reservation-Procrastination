@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reservation-Procrastination/static/css/main.e720b45e.css",
+    "main.js": "/Reservation-Procrastination/static/js/main.93f8b7f7.js",
+    "static/media/Firelookout.bg.jpg": "/Reservation-Procrastination/static/media/Firelookout.bg.f820d69d8a16ff934a6f.jpg",
+    "static/media/Camping.bg.jpg": "/Reservation-Procrastination/static/media/Camping.bg.6417ed924c48791c5e61.jpg",
+    "static/media/tour.bg.jpg": "/Reservation-Procrastination/static/media/tour.bg.1647a7f293af72f189cc.jpg",
+    "static/media/Home.bg.jpg": "/Reservation-Procrastination/static/media/Home.bg.03cd5c28a2345b03c95b.jpg",
+    "static/media/lotteries.bg.jpg": "/Reservation-Procrastination/static/media/lotteries.bg.8f13eeacc92092f313e5.jpg",
+    "static/media/Permit.bg.jpg": "/Reservation-Procrastination/static/media/Permit.bg.bad055a7206548710cf4.jpg",
+    "static/media/Logo.jpg": "/Reservation-Procrastination/static/media/Logo.c9911b804a1ab3cff298.jpg",
+    "index.html": "/Reservation-Procrastination/index.html",
+    "main.e720b45e.css.map": "/Reservation-Procrastination/static/css/main.e720b45e.css.map",
+    "main.93f8b7f7.js.map": "/Reservation-Procrastination/static/js/main.93f8b7f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e720b45e.css",
+    "static/js/main.93f8b7f7.js"
+  ]
+}
