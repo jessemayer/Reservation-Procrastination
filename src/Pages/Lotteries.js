@@ -3,7 +3,7 @@ import "../Styles/lotteries.css"
 
 function Lotteries() {
   return (
-    <div>
+    <div className='lotteries-container'>
       Lotteries
     </div>
   )
