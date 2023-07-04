@@ -1,5 +1,5 @@
 
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, Outlet } from 'react-router-dom';
 import Home from './Pages/Home';
 import FireLookout from './Pages/FireLookout';
 import CampSites from './Pages/CampSites';
@@ -21,6 +21,10 @@ function App() {
     <Route path="/Tours" element={<Tours />} />
     <Route path='/lotteries' element={<Lotteries />} />
    </Routes >
+
+   <div>
+    <Outlet />
+   </div>
    </>
   );
 }
