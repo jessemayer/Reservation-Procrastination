@@ -22,9 +22,7 @@ function App() {
     <Route path='/lotteries' element={<Lotteries />} />
    </Routes >
 
-   <div>
-    <Outlet />
-   </div>
+   
    </>
   );
 }
